@@ -35,26 +35,6 @@ The project focuses on **multi-task learning for Arabic dialect identification a
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ```
-
-2. Install dependencies (recommend using virtual environment):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebooks in order:
-   - `Arabic_Dialects.ipynb` (end-to-end pipeline)
-   - `Sentence_Level_v2.ipynb` (sentence-level classification)
-   - `Token_Level_v3.ipynb` (token-level classification)
-
----
-
 ## 📊 Datasets
 
 - **QADI** – 18 dialects  
@@ -74,21 +54,4 @@ The project focuses on **multi-task learning for Arabic dialect identification a
   - F1 (Micro/Macro): **0.717 / 0.708**  
   - MSE / MAE: **0.099 / 0.253**
 
----
 
-## 📜 Citation
-
-If you use this work, please cite the internship poster:
-
-```
-Ameera Attiah, Zaid Alyafeai, Bernard Ghanem.
-Multi-Task Learning for Arabic Dialect Classification & Scoring.
-KAUST Center of Excellence for Generative AI, 2025.
-```
-
----
-
-## 👩‍💻 Author
-
-**Ameera Attiah**  
-Intern @ KAUST – Center of Excellence for Generative AI
