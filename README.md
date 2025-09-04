@@ -29,7 +29,6 @@ The project focuses on **multi-task learning for Arabic dialect identification a
 ├── marbert_sentence_model.pt    # Trained MARBERT (sentence-level)
 ├── marbert_token_model.pt       # Trained MARBERT (token-level)
 ├── marbert_token_model_mixed.pt # Token-level model with mixed-dialect data
-├── Poster.pdf                   # Internship poster
 └── README.md                    # This file
 ```
 
