@@ -9,7 +9,7 @@ The project focuses on **multi-task learning for Arabic dialect identification a
 
 - **Goal**: Advance Arabic NLP by building multi-label dialect classifiers that also incorporate a continuous measure of dialectness.  
 
-- **Approaches** 
+- **Approaches**:
   - **Sentence-level classification** for identifying dialects at the document level.  
   - **Token-level classification** using MARBERT to capture fine-grained dialectal variation.  
   - **Multi-task learning framework** that unifies classification of discrete dialect labels with regression-based dialectness scoring.  
